@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Artonh</Authors>
+    <Company>None</Company>
+    <Product>Web advert microservices</Product>
+    <PackageProjectUrl>https://github.com/artonh/WebAdvert.AdvertApi.git</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/artonh/WebAdvert.AdvertApi.git</RepositoryUrl>
+    <PackageId>WebAdvertAHoti.Models</PackageId>
+  </PropertyGroup>
+
+</Project>

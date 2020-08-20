@@ -9,11 +9,12 @@
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.0.0" />
     <PackageReference Include="AWSSDK.DynamoDBv2" Version="3.3.106.45" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.HealthChecks" Version="1.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\AdvertApi.Models\AdvertApi.Models.csproj" />
+    <ProjectReference Include="..\AdvertApi.Models\AdvertApi.Models.csproj" />
   </ItemGroup>
 
 </Project>
